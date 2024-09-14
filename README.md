@@ -2,7 +2,7 @@
 
 ## Overview
 <b>Machine Learning Project</b> created with <b>Python</b> using California home price dataset to predict prices of homes in California.
-Project was created using the <b>TensorFlow</b> framework and <b>scikit-learn</b> library to build models to try to accurately predict home prices. 
+The project was created using the <b>TensorFlow</b> framework and <b>scikit-learn</b> library to build models to try to accurately predict home prices. 
 
 ## App Modifications
 <ul>
