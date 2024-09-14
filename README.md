@@ -1,7 +1,7 @@
 # Predict Home Price
 
 ## Overview
-<b>Machine Learning Project</b> created with <b>Python</b> using California home price dataset to predict prices of homes in California.</br> 
+<b>Machine Learning Project</b> created with <b>Python</b> using California home price dataset to predict prices of homes in California.
 Created using the <b>TensorFlow</b> framework and <b>scikit-learn</b> library to build models to try to accurately predict home prices. 
 
 ## App Modifications
@@ -13,6 +13,6 @@ Created using the <b>TensorFlow</b> framework and <b>scikit-learn</b> library to
 
 
 ## Motivation
-This project was created to learn more about <b>TensorFlow</b> and learn more about <b>Machine Learning</b>.
-By creating different models using different ensemble methods such as KNeighbour, RandomForest, and GradientBoostingRegressor,
+This project was created to learn more about <b>TensorFlow</b> and learn more about <b>Machine Learning</b> ensemble methods. </br>
+By creating different models using different ensemble methods such as KNeighbour, RandomForest, and GradientBoostingRegressor, </br>
 I was able to understand more about the way these methods worked and were effective under what conditions.
